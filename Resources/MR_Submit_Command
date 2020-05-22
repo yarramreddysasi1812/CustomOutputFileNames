@@ -1,0 +1,1 @@
+hadoop jar WeatherPOC.jar com.weather.poc.WeatherReportProcessor /WeatherInputData/weather-report.txt /WeatherOutput
